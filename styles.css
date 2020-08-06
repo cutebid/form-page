@@ -1,0 +1,74 @@
+*        {
+         box-sizing: border-box;
+         }
+body     {
+            background-color: black;
+            color: white;
+            font-family: sans-serif;
+          }
+#logo     {
+            margin:10px 0px 0px 150px;
+            border-radius: 30px
+          }
+#girl     {
+           margin-left: 150px;
+           margin-top: 80px;
+           background-color: white;
+          }
+.p1       {
+          position: absolute;
+          top: 20px;
+          left: 210px;
+           }
+.p2     {
+	      position: absolute;
+	      top: 20px;
+	      right: 500px;
+        }   
+.p3     {
+	     position: absolute;
+	     top: 20px;
+	     right: 350px;
+        }
+.p5    {
+          border: none;
+          border-radius: 50%;
+          width: 150px;
+          height: 150px;
+          background-color: rgba(255, 51, 255, 0.1);
+          position: absolute;
+          top: 350px;
+          left: 120px;
+        }
+.p6      {
+          border: none;
+          border-radius: 50%;
+          width: 80px;
+          height: 80px;
+          background-color: rgba(0, 153, 230, 0.1);
+          position: absolute;
+          top: 150px;
+          left: 420px;
+        }
+.p7       {
+          border: none;
+          border-radius: 50%;
+          width: 150px;
+          height: 150px;
+          background-color: rgba(0, 153, 230, 0.1);
+          position: absolute;
+          bottom: 10px;
+          right: 0;
+
+        }
+.container {
+            position: absolute;
+            top: 250px;
+            left: 460px;
+           }
+button     {
+            padding: 10px;
+            background-color: blue;
+            border: none;
+            color: white;
+}
